@@ -6,8 +6,20 @@ body {
     margin:auto;
 }
 
+div header {
+    width: 100%;
+    height: 100px;
+    background-image: url('../img/pattern.png');
+    background-color: aquamarine;
+    background-size: 30%;
+}
+
 ul {
     padding-left: 0;
+}
+
+table {
+    border-collapse: collapse;
 }
 
 thead {
