@@ -29,3 +29,26 @@ td.lungo {
 .prima, .terza {
     background-color: lightskyblue;
 }
+
+.proposta1, .proposta2 {
+    height:150px;
+    width: 200px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: white;
+    padding-left: 15px;
+    padding-top: 15px;
+}
+
+.proposta1 {
+    background-image: url('../img/monitor.jpg');
+    margin-bottom: 10px;
+}
+.proposta2 {
+    background-image: url('../img/graph.jpg');
+}
+
+span {
+    background-color: yellow;
+}
