@@ -9,3 +9,23 @@ body {
 ul {
     padding-left: 0;
 }
+
+thead {
+    background-color: aqua;
+}
+th {
+    color: white;
+    padding: 0;
+}
+
+td {
+    width: 25%;
+}
+
+td.lungo {
+    width: 50%;
+}
+
+.prima, .terza {
+    background-color: lightskyblue;
+}
